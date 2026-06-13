@@ -147,7 +147,7 @@ This project demonstrates:
 
 ## Author
 
-**Rishikesh**
+**Avula Rishikesh**
 
 Aspiring Data Analyst | Python | SQL | Data Visualization | Business Analytics
 
